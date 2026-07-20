@@ -1,0 +1,14 @@
+{
+    "criteria": {
+        "forbidden_words": [
+            "crypto",
+            "NFT"
+        ],
+
+        "professional_check": true,
+
+        "exclude_politics": true,
+
+        "tone": "respectful and thoughtful"
+    }
+}
